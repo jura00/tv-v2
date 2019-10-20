@@ -1,4 +1,4 @@
 ## Ссылки для встраивания
 
-- https://rocld.com/n9uec - normal
-- https://rocld.com/n9ueb - 18+
+- https://bit.do/tv-list - normal
+- https://bit.do/tv-list-18 - 18+
